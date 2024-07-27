@@ -1,4 +1,4 @@
-# PEARC-OPEN: Open source projects which might useful for Reseach Computing.
+# PEARC-OPEN: Open source projects for Reseach Computing
 
 Smart Slurm, Slurm wrapper scripts to make it work better for users and staff:
 
