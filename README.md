@@ -27,3 +27,8 @@ https://support.access-ci.org/pegasus
 Arbiter, dinamically adjust cgroup on login nodes:
 
 https://github.com/CHPC-UofU/arbiter2
+
+FreeCount:
+
+https://github.com/ElizabethBrooks/freeCount
+
